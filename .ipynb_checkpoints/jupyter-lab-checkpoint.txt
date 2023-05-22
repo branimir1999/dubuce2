@@ -1,0 +1,2 @@
+u konzoli upisati:
+jupyter-lab
